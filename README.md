@@ -3,4 +3,5 @@ Repository ini berisi hasil pembelajaran dan tugas dari Short Class Fundamental 
 ## Insight
 1. Saya mendapatkan pemahaman bahwa kesuksesan seorang Data Analyst tidak hanya bergantung pada kemampuan teknis saja, tetapi juga pada kemampuan memahami masalah bisnis secara mendalam dan menerapkan siklus perbaikan terus menerus (PDCA).
 2. Melalui proses perencanaan yang matang, pelaksanaan analisis data, pengecekan hasil, hingga mengambil tindakan yang tepat berdasarkan analisis, proses analisis menjadi lebih terstruktur dan berorientasi solusi nyata.
+
 #DataAnalysis #PDCA #Framework

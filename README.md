@@ -4,3 +4,5 @@ Dalam sebuah bisnis memahami perilaku pelanggan adalah hal yang penting untuk me
 ##
 1. Data yang dikumpulkan dan dianalisis dengan benar membantu mengidentifikasi akar masalah dan mendukung pengambilan keputusan yang tepat dalam meningkatkan retensi pelanggan.
 2. Dengan menerapkan siklus Plan-Do-Check-Action, perusahaan dapat menjalankan, mengevaluasi, dan memperbaiki strategi retensi pelanggan secara berkelanjutan berbasis data.
+
+#DataAnalysis #PDCA #Framework
